@@ -1,4 +1,4 @@
-# Boopit — Sci-Fi Blue Survivor ⚡🛰️  
+# Boopit 
 A neon-sci-fi, fast-paced, top-down survival shooter built with **Python** and **Pygame**.  
 Survive 20 seconds while enemies close in from all directions — dash, shoot, boost, and stay alive.
 
